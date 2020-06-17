@@ -1,0 +1,66 @@
+body {
+
+    background-color:rgb(230, 230 ,230);
+}
+
+h1{
+    text-align: center;
+    background-color: aquamarine; 
+    padding : 10px;
+    font-size: 40px;
+}
+
+#input-card{
+    width:40%;
+    float :left;
+
+}
+#output-card{
+    width : 40%;
+    float:right;
+    margin-right:60px;
+    
+}
+
+#text-input{
+    margin-top: 40px;
+    margin-left: 50px;
+    padding : 10px;
+    border:1px solid;
+    border-radius:5px;
+    font-size: large;
+    background-color: rgb(200,200,200,.8);
+    size:relative;
+    
+}
+
+
+#submit-btn{
+    border-radius:20px;
+    width:30%;
+    height:40px;
+    margin:10px;
+    float:right;
+    
+} 
+
+#submit-btn:hover{
+    border-radius:20px;
+    background-color: rgb(150,250,150);
+    width:30%;
+    height:40px;
+    margin:10px;
+    float:right;
+    
+}
+
+#table{
+    width :100%;  
+    border:1px solid;
+    text-align: center;
+
+}
+tr ,th {
+    border: 1px solid;
+}
+
